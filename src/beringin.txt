@@ -56,6 +56,8 @@ ke 
 ke 
 kh 
 kh 
+ky 
+ky 
 l 
 lah 
 lah 
@@ -112,7 +114,7 @@ se 
 se 
 sh 
 sh 
-sw 
+sw 
 sw 
 sy 
 sy 
